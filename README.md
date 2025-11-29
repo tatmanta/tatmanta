@@ -1,16 +1,17 @@
-## Hi there 👋
+# Travis Tatman
 
-<!--
-**tatmanta/tatmanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Behavioral-science-driven product and marketing strategist.  
+Builds systems and stories that help people make better decisions and live healthier, wealthier, happier lives.
 
-Here are some ideas to get you started:
+## Highlighted project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 95% Confidence Interval Quiz
+[Repo](https://github.com/tatmanta/confidence-interval-quiz) · [Live demo](https://ciquiz.systemii.co/)
+
+A Python/Flask web app that tests real-world understanding of 95% confidence intervals.  
+Users enter lower/upper bounds for 20 questions, get instant scoring and interpretation,  
+and see global accuracy stats aggregated across all runs. Deployed on Railway with a custom domain.
+
+---
+
+More projects coming soon...
