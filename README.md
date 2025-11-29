@@ -1,4 +1,4 @@
-# Travis Tatman
+# travis andrew tatman
 
 Behavioral-science-driven product and marketing strategist.  
 Builds systems and stories that help people make better decisions and live healthier, wealthier, happier lives.
